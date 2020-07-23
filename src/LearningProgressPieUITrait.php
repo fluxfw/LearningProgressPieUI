@@ -15,7 +15,7 @@ trait LearningProgressPieUITrait
     /**
      * @return Factory
      */
-    protected static function LearningProgressPieUI() : Factory
+    protected static function learningProgressPieUI() : Factory
     {
         return Factory::getInstance();
     }

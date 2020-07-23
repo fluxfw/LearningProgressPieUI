@@ -25,7 +25,7 @@
   "require": {
     "php": ">=7.2",
     "srag/dic": ">=0.1.0",
-    "srag/piechart": "1.0.2"
+    "srag/piechart": "1.0.3"
   },
   "autoload": {
     "psr-4": {
