@@ -11,11 +11,11 @@
   },
   "type": "library",
   "keywords": [
-    "ILIAS",
-    "Learning",
-    "Progress",
-    "Pie",
-    "UI"
+    "ilias",
+    "learning",
+    "pie",
+    "progress",
+    "ui"
   ],
   "homepage": "https://github.com/studer-raimann/LearningProgressPieUI",
   "license": "GPL-3.0-only",
