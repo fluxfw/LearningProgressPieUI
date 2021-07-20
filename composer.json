@@ -1,7 +1,7 @@
 {
   "name": "srag/learningprogresspieui",
   "description": "ILIAS Learning Progress Pie UI",
-  "version": "1.2.0",
+  "version": "1.2.1",
   "extra": {
     "ilias_plugin": {
       "ilias_min_version": "6.0",
@@ -47,9 +47,6 @@
     "sort-packages": true
   },
   "scripts": {
-    "generate-plugin-readme": [
-      "srag\\GeneratePluginInfosHelper\\GeneratePluginReadme::generatePluginReadme"
-    ],
     "update-version": [
       "srag\\GeneratePluginInfosHelper\\UpdateVersion::updateVersion"
     ]
